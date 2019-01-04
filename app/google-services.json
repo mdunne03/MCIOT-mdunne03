@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328084248072",
+    "firebase_url": "https://mdunne03scanwifi.firebaseio.com",
+    "project_id": "mdunne03scanwifi",
+    "storage_bucket": "mdunne03scanwifi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328084248072:android:262eb3f226a8320a",
+        "android_client_info": {
+          "package_name": "com.mdunne03.scanwifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328084248072-qomljgq2teos2oab1hnam4m8juikpnd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdunne03.scanwifi",
+            "certificate_hash": "22151befea2101d174fe4696da3dff9be79defbd"
+          }
+        },
+        {
+          "client_id": "328084248072-fq3tbtom4tdsnh8kmdojggr1i3gk3kib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKBlvY3W8jDpOj9ED6yadnsh6B9NbWKHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328084248072-fq3tbtom4tdsnh8kmdojggr1i3gk3kib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

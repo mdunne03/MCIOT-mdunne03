@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scanwifi</string>
+    <string name="scan_button">SCAN WIFI</string>
+    <string name="location_button">GET GPS</string>
+    <string name="Tracking_button">Write to FireBase</string>
+    <string name="location_message">Current Location</string>
+   </resources>
